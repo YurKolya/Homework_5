@@ -1,6 +1,5 @@
 """ task 3 """
 
-
 from sys import getsizeof
 
 tutors = [
