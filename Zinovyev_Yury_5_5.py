@@ -5,7 +5,6 @@ import sys  # use for test
 
 from pip._internal.cli.cmdoptions import src
 
-
 def my_set(*argv):
     """ return unique elemts of argv """
     answ = set()
